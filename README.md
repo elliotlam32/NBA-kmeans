@@ -24,3 +24,18 @@ As the game of basketball has progressed over the years, we’ve seen many new t
 Pull more advanced data + more players from previous years in order to create a larger and more in-depth model. I could pull pick and roll data from the NBA site, and more seasons from SportsReference. Some more in-depth data that would lead to a more complex model would be, DFG%, On Ball%, PnR%, Hustle Metrics.
 
 
+general groups
+
+star
+
+traditional
+
+stretch
+
+versatile
+
+group 1 
+bam, rudy, jokic, turner
+ayton, queen, huff, sims  - try to change sims
+
+
