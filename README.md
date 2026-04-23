@@ -4,7 +4,7 @@ Topic: NBA K-Means Clustering for Big Men Archetypes
 
 **Dataset**
 
-The individual players selected/determined for this project were made through my jurisdiction. I deemed anyone traditionally categorized as a Center on Basketball Reference as a Big Man, but excluded “Large Forwards” such as Paolo Banchero and Jalen Johnson. Additionally, I also tried to exclude tall players who moved more like a guard than a forward or center, despite their height. The most prominent example of this is Will Riley(Highlights found in Highlights Folder). The player list can be found within the code. However, this could have been a new archetype that I excluded completely. Once I had determined the list, I webscraped the dataset from Basketball Reference using Cloudscraper. 
+The individual players selected/determined for this project were made through my judgment. I deemed anyone traditionally categorized as a Center on Basketball Reference as a Big Man, but excluded “Large Forwards” such as Paolo Banchero and Jalen Johnson. Additionally, I also tried to exclude tall players who moved more like a guard than a forward or center, despite their height. The most prominent example of this is Will Riley(Highlights found in Highlights Folder). The player list can be found within the code. However, this could have been a new archetype that I excluded completely. Once I had determined the list, I webscraped the dataset from Basketball Reference using Cloudscraper. 
 
 
 **Purpose**
