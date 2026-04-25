@@ -15,7 +15,9 @@ As the game of basketball has progressed over the years, we’ve seen many new t
 **Issues/Solutions**
 
 1. K-Means Graph: The K-Means graph is quite difficult to understand, especially since the centroids aren’t labeled, and the graph tends to pick dots that are very similar in color. - still have yet to fix
-2. Overly Specialzied clusters: picking individuals that excel at their archetype to cluster around creawteas a cluster that almost always excludes average players of that archetype - for example choosing wemby to cluster around almost always produced a cluster of just Wemby and Chet Holmgren
+2. Overly Specialzied clusters: picking individuals that excel at their archetype to cluster around creawteas a cluster that almost always excludes average players of that archetype - for example choosing wemby to cluster around almost always produced a cluster of just Wemby and Chet Holmgren.
+        Solution: Choosing a mid or average player as a centroid created more accurate clusters.
+4. 
 
 
 **Improvements/Potential Areas to Build**
