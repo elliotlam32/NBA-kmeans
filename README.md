@@ -17,7 +17,6 @@ As the game of basketball has progressed over the years, we’ve seen many new t
 1. K-Means Graph: The K-Means graph is quite difficult to understand, especially since the centroids aren’t labeled, and the graph tends to pick dots that are very similar in color. - still have yet to fix
 2. Overly Specialzied clusters: picking individuals that excel at their archetype to cluster around creawteas a cluster that almost always excludes average players of that archetype - for example choosing wemby to cluster around almost always produced a cluster of just Wemby and Chet Holmgren.
         Solution: Choosing a mid or average player as a centroid created more accurate clusters.
-4. 
 
 
 **Improvements/Potential Areas to Build**
@@ -26,11 +25,11 @@ As the game of basketball has progressed over the years, we’ve seen many new t
 Pull more advanced data + more players from previous years in order to create a larger and more in-depth model. I could pull pick and roll data from the NBA site, and more seasons from SportsReference. Some more in-depth data that would lead to a more complex model would be, DFG%, On Ball%, PnR%, Hustle Metrics.
 
 
-general groups
+**Information**
 
-star
+There are 2 models, but they're basically the same. One randomizes the clusters, while the other pre-determines them. The randomized one helps in finding groups/archetypes that aren't super obvvious. The PRESET model, has preset centroids/point to cluster around in order to create 4 specific groups/categories of big men. The groups are Verstaile; Derik Queen, Traditional; DeAndre Ayton, Rim Protectors; Jericho Sims, and Stretch: Jay Huff.
 
-traditional
+
 
 stretch
 
